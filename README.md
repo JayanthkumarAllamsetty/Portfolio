@@ -11,4 +11,4 @@ I have also created the Dark mode for this website the View of the website in th
 ![Screenshot 2023-04-16 225049](https://user-images.githubusercontent.com/87435152/232329730-c81fda4b-53e9-4c5e-8833-543a3f3cc245.png)
 ![Screenshot 2023-04-16 225059](https://user-images.githubusercontent.com/87435152/232329735-5f0301fb-c5d9-4599-8106-4204d159785f.png)
 ![Screenshot 2023-04-16 225112](https://user-images.githubusercontent.com/87435152/232329739-eb05d9c2-63eb-4acb-8d7d-3b2d1c243967.png)
-![Screenshot 2023-04-16 225121](https://user-images.githubusercontent.com/87435152/232329747-c304282f-c7b6-419b-aa52-5dd068867fec.png)
+
